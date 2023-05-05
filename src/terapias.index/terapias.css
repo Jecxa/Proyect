@@ -212,7 +212,36 @@ footer .container{
         padding: 200px 12px;
     }
 
+    #Galería{
+        background-color: rgb(30,30,30);
+        color: white;
+        text-align: center;
    
+       
+    }
+    
+    #Galería .container{
+        padding: 150px 12px;
+    }
+    
+    #Galería h2{
+        margin-top: 0;
+        font-size: 3.2em;
+    }
+    
+    #Galería p{
+        display: none;
+        text-align: justify;
+        
+            }
+    
+    #Galería .carta{
+        background-position: center center;
+        background-size: cover;
+        padding: 50px 0px;
+        margin: 30px;
+        border-radius: 15px;
+    }
 }
     #Contactanos{
         background-image: url("cgpiedras1011151_1_2_ES899625_MG255958835.jpg");
